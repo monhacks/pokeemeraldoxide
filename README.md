@@ -26,4 +26,4 @@ For contacts and other pret projects, see [pret.github.io](https://pret.github.i
 [ ] Shiny/Oval/Exp Charms are available
 [ ] Battle UI now shows Physical/Special type of move
 [X] The Clock can be reset
-[ ] HMs may be used if a Pokemon in the party can learn it, rather than if they know it
+[X] HMs may be used if a Pokemon in the party can learn it, rather than if they know it
