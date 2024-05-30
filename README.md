@@ -13,7 +13,7 @@ For contacts and other pret projects, see [pret.github.io](https://pret.github.i
 ## Goals
 [ ] Trades and Battling should still be compatible with Gen III games
 [ ] Saves should remain compatible
-[ ] HMs may be forgotten without the use of the Move Deleter
+[X] HMs may be forgotten without the use of the Move Deleter
 [ ] All TMs are available to be purchased
 [ ] Missing items (Kanto Exclusive) are available to be purchased
 [ ] Event Items (Eon Ticket, etc.) are somehow obtainable
@@ -25,5 +25,5 @@ For contacts and other pret projects, see [pret.github.io](https://pret.github.i
 [ ] Breeding Mechanics are updated
 [ ] Shiny/Oval/Exp Charms are available
 [ ] Battle UI now shows Physical/Special type of move
-[ ] The Clock can be reset
+[X] The Clock can be reset
 [X] HMs may be used if a Pokemon in the party can learn it, rather than if they know it
