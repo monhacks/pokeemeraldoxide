@@ -4691,6 +4691,18 @@ u16 ItemIdToBattleMoveId(u16 item)
     return sTMHMMoves[tmNumber];
 }
 
+u16 BattleMoveIdToItemId(u16 move)
+{
+    u8 i;
+
+    for (i = 0; i < NUM_TECHNICAL_MACHINES + NUM_HIDDEN_MACHINES; i++)
+    {
+        if (sTMHMMoves[i] == move)
+            return i + ITEM_TM01;
+    }
+    return ITEM_NONE;
+}
+
 bool8 IsMoveHm(u16 move)
 {
     u8 i;
